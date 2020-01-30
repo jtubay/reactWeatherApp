@@ -1,0 +1,3 @@
+[submodule "weatherapp/weatherapp/scr/weather-icons"]
+	path = weatherapp/weatherapp/scr/weather-icons
+	url = https://github.com/erikflowers/weather-icons.git
